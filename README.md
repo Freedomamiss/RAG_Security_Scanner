@@ -1,3 +1,5 @@
+[![Python Tests](https://github.com/Freedomamiss/RAG_Security_Scanner/actions/workflows/python-tests.yml/badge.svg)](https://github.com/Freedomamiss/RAG_Security_Scanner/actions/workflows/python-tests.yml)
+
 # RAG Security Scanner v1
 
 A safe, beginner-friendly command-line tool for testing common security risks in Retrieval-Augmented Generation systems.
